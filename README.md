@@ -51,10 +51,7 @@ move 0 to left
 
 &#35;4 |
 ------------ |
-Solution for EABCDFKGHITOLMNJ0PRSUVQWX is:<br>
-move 0 to left<br>
-move 0 to up<br>
-move 0 to right<br>
+Solution for EABCDFKGHITOLMNJ0PRSUVQWX is:<br>move 0 to left<br>move 0 to up<br>move 0 to right<br>
 move 0 to down<br>
 move 0 to right<br>
 move 0 to down<br>
