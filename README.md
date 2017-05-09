@@ -40,28 +40,29 @@ No solution for F0BCDAKGHIEJLMNOPQSRTUVWX!!
 
 &#35;3 |
 ------------ |
-Solution for F0BCDAKGHIEJLMNOPQRSTUVWX is:  move 0 to left
-move 0 to down
-move 0 to down
-move 0 to right
-move 0 to up
-move 0 to up
+Solution for F0BCDAKGHIEJLMNOPQRSTUVWX is:<br>
+move 0 to left<br>
+move 0 to down<br>
+move 0 to down<br>
+move 0 to right<br>
+move 0 to up<br>
+move 0 to up<br>
 move 0 to left
 
 &#35;4 |
 ------------ |
-Solution for EABCDFKGHITOLMNJ0PRSUVQWX is:
-move 0 to left
-move 0 to up
-move 0 to right
-move 0 to down
-move 0 to right
-move 0 to down
-move 0 to left
-move 0 to left
-move 0 to up
-move 0 to up
-move 0 to right
-move 0 to up
-move 0 to left
+Solution for EABCDFKGHITOLMNJ0PRSUVQWX is:<br>
+move 0 to left<br>
+move 0 to up<br>
+move 0 to right<br>
+move 0 to down<br>
+move 0 to right<br>
+move 0 to down<br>
+move 0 to left<br>
+move 0 to left<br>
+move 0 to up<br>
+move 0 to up<br>
+move 0 to right<br>
+move 0 to up<br>
+move 0 to left<br>
 move 0 to up
