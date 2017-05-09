@@ -40,8 +40,7 @@ No solution for F0BCDAKGHIEJLMNOPQSRTUVWX!!
 
 &#35;3 |
 ------------ |
-Solution for F0BCDAKGHIEJLMNOPQRSTUVWX is:  
-move 0 to left
+Solution for F0BCDAKGHIEJLMNOPQRSTUVWX is:  move 0 to left
 move 0 to down
 move 0 to down
 move 0 to right
