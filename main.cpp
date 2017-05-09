@@ -11,7 +11,7 @@ using namespace std;
 #define	ACTION_UP		'u'
 #define	ACTION_DOWN		'd'
 #define	ACTION_LEFT		'l'
-#define	ACTION_RIGHT	'r'
+#define	ACTION_RIGHT		'r'
 #define	BLANK_BLOCK		'0'
 #define	QUIT_SIGNAL		"QUIT"
 
@@ -36,7 +36,7 @@ vector<stateNode> SuccessorFunction(stateNode);
 bool isFinalState(stateNode);
 void printActionSequence(string, string);
 
-/* do not record the searched node! */
+/* the searched nodes don't be recorded */
 int main() {
 
 	while (true) {
