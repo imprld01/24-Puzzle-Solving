@@ -11,9 +11,9 @@ This repository as a note for me help me to find the code in the future! 😀
 # Testing Input
 
 &#35;1 |
-------------
-Content from cell 1
-Content in the first column
+------------ |
+Content from cell 1 |
+Content in the first column |
 QUIT
 
 # Testing Output
