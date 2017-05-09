@@ -45,3 +45,7 @@ Solution for F0BCDAKGHIEJLMNOPQRSTUVWX is:<br>move 0 to left<br>move 0 to down<b
 &#35;4 |
 ------------ |
 Solution for EABCDFKGHITOLMNJ0PRSUVQWX is:<br>move 0 to left<br>move 0 to up<br>move 0 to right<br>move 0 to down<br>move 0 to right<br>move 0 to down<br>move 0 to left<br>move 0 to left<br>move 0 to up<br>move 0 to up<br>move 0 to right<br>move 0 to up<br>move 0 to left<br>move 0 to up
+
+# License
+[![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)  
+This project is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/) and the [MIT License](LICENSE.md).
