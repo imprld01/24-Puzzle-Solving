@@ -6,7 +6,7 @@ and the program finds the best solution, the one with the fewest steps,
 by A* searching according to Manhattan Distance, a consistent heuristic. 
 
 This is an assignment on NTOU Artificial Intelligence 2016 Spring.  
-This repository as a note for me help me to find the code in the future! 😀
+This repository as a note help me to find the code in the future! 😀
 
 # Testing Input
 
@@ -40,7 +40,7 @@ No solution for F0BCDAKGHIEJLMNOPQSRTUVWX!!
 
 &#35;3 |
 ------------ |
-Solution for F0BCDAKGHIEJLMNOPQRSTUVWX is:
+Solution for F0BCDAKGHIEJLMNOPQRSTUVWX is:  
 move 0 to left
 move 0 to down
 move 0 to down
